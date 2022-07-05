@@ -60,7 +60,5 @@
   - [16 自定义hook](React-Hooks\16%20自定义hook.md)
   - [17 React Hook 总结](React-Hooks\17%20React%20Hook%20总结.md)
   - [18 示例：React使用Echarts所用到的hooks](React-Hooks\18%20示例：React使用Echarts所用到的hooks.md)
-  - [CHANGELOG](React-Hooks\CHANGELOG.md)
-  - [README](React-Hooks\README.md)
   - [附01：React基础知识](React-Hooks\附01：React基础知识.md)
   - [附02：React扩展阅读](React-Hooks\附02：React扩展阅读.md)
